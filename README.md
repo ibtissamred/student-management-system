@@ -59,4 +59,4 @@ python main.py
 This project was developed to practice Python programming, database management, SQL, CRUD operations, and connecting a Python application to a relational database.
 ## Screenshot
 
-![Student Management System](screenshot.png)
+![Student Management System](./Screenshot%20(22).png)
